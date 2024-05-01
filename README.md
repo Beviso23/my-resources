@@ -1,6 +1,6 @@
 # my-resources
 
-Here is a list of my resources from CM515
+This is a list of my resources from CM515
 
 ## Links
 
