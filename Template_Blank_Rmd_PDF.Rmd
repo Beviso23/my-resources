@@ -1,0 +1,12 @@
+---
+title: "Blank_Rmd_PDF"
+author: "Kelsey Martin"
+date: "2024-05-01"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is a blank template for starting an Rmarkdown file, it may or may not save time because you can just copy this file instead of deleting all the stuff about cars everytime.
