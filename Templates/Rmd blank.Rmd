@@ -1,0 +1,16 @@
+---
+title: "Rmd template"
+author: "Owen Bevis"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r libraries, echo=FALSE}
+library(tidyr)
+library(tidyverse)
+library(ggplot2)
+```
